@@ -3,14 +3,24 @@
         <title>My Dom Project</title>
     </head>
     <body>
+         <!-- script tag is used to erite javascript codes 
+        This is internal javascript
+        Note that we should use scrept tag at the end
+        Because, HTML should load first,then JS should run. -->  
+
+         <!-- <body onload="alert('Hello world!!')"> -->
+
         <form id="form">
-            
+
             <label for="number label">Number : </label>
             <input type="text" id="TextBox">
             <input type="button" value="Check The Number" onclick="IsEven()">
         </form>
     </body> 
+    <!-- I am using src="index.js" external file to write my js code -->
     <script type="text/javascript" src="index.js">
+     // alert('This is javascript class'); =>Alert bu kisimdan alinip css
+            //dosyasina kopyalandi.
     </script>
     
 </html>
