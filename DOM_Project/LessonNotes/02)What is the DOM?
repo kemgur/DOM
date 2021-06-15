@@ -1,0 +1,20 @@
+The DOM is a W3C (World Wide Web Consortium) standard.
+
+The DOM defines a standard for accessing documents:
+DOM, belgelere erişim için bir standart tanımlar:
+
+    "The W3C Document Object Model (DOM) is a platform and 
+language-neutral interface that allows programs and
+scripts to dynamically access and update the content,
+structure, and style of a document."
+    "W3C Belge Nesne Modeli (DOM), programların ve 
+komut dosyalarının bir belgenin içeriğine, yapısına ve 
+stiline dinamik olarak erişmesine ve bunları güncellemesine
+ olanak tanıyan, platform ve dilden bağımsız bir arabirimdir."
+
+The W3C DOM standard is separated into 3 different parts:
+W3C DOM standardı 3 farklı bölüme ayrılmıştır:
+
+1) Core DOM - standard model for all document types
+2) XML DOM - standard model for XML documents
+3) HTML DOM - standard model for HTML documents

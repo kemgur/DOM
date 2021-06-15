@@ -1,0 +1,8 @@
+External JS is better because:
+1)Reusability
+2)Bug fix-easy to find and fix the code
+3)Separation of consern:
+  a)Html codes shold be in html fields
+  b)Css codes shold be in css fields
+  c)JS codes shold be in js fields
+Easy to understand  

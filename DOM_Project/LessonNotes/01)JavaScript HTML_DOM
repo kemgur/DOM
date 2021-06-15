@@ -1,0 +1,36 @@
+01) With the HTML DOM, JavaScript can access and 
+change all the elements of an HTML document.
+01) HTML DOM ile JavaScript, bir HTML belgesinin 
+tüm öğelerine erişebilir ve bunları değiştirebilir.
+
+02) When a web page is loaded, the browser 
+creates a Document Object Model of the page.
+02) Bir web sayfası yüklendiğinde, tarayıcı 
+sayfanın Belge Nesne Modelini oluşturur.
+
+03) The HTML DOM model is constructed as a tree of Objects:
+    HTML DOM modeli, bir Nesneler ağacı olarak oluşturulur:
+
+04) With the object model, JavaScript gets all the power it needs to create dynamic HTML:
+    JavaScript, nesne modeliyle dinamik HTML oluşturmak için ihtiyaç duyduğu tüm gücü alır:
+
+    a)JavaScript can change all the HTML elements in the page
+      JavaScript, sayfadaki tüm HTML öğelerini değiştirebilir
+
+    b)JavaScript can change all the HTML attributes in the page
+      JavaScript, sayfadaki tüm HTML özelliklerini değiştirebilir
+
+    c)JavaScript can change all the CSS styles in the page
+      JavaScript, sayfadaki tüm CSS stillerini değiştirebilir
+
+    d)JavaScript can remove existing HTML elements and attributes
+      JavaScript, mevcut HTML öğelerini ve niteliklerini kaldırabilir
+
+    e)JavaScript can add new HTML elements and attributes
+      JavaScript, yeni HTML öğeleri ve nitelikleri ekleyebilir
+
+    f)JavaScript can react to all existing HTML events in the page
+      JavaScript, sayfadaki tüm mevcut HTML olaylarına tepki verebilir
+
+    g)JavaScript can create new HTML events in the page 
+      JavaScript, sayfada yeni HTML olayları oluşturabilir   
